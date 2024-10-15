@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1827,
+    "id" : "https://nthieberger.github.io/Layard/images/mss84_b051_f001006/canvas/",
+    "label" : {
+      "none" : [ "mss84_b051_f001006" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://nthieberger.github.io/Layard/images/mss84_b051_f001006/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://nthieberger.github.io/Layard/images/mss84_b051_f001006/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 58,
+              "height" : 48
+            }, {
+              "width" : 115,
+              "height" : 95
+            }, {
+              "width" : 229,
+              "height" : 189
+            }, {
+              "width" : 457,
+              "height" : 377
+            }, {
+              "width" : 914,
+              "height" : 754
+            }, {
+              "width" : 1827,
+              "height" : 1508
+            } ],
+            "profile" : "level0",
+            "width" : 1827,
+            "id" : "https://nthieberger.github.io/Layard/images/mss84_b051_f001006",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1508
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1827,
+          "id" : "https://nthieberger.github.io/Layard/images/mss84_b051_f001006/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1508
+        },
+        "target" : "https://nthieberger.github.io/Layard/images/mss84_b051_f001006/canvas/"
+      } ]
+    } ],
+    "height" : 1508
+  }, {
     "width" : 1459,
     "id" : "https://nthieberger.github.io/Layard/images/mss84_b051_f001005/canvas/",
     "label" : {
