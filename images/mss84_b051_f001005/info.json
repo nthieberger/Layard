@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 46,
+    "height" : 60
+  }, {
+    "width" : 92,
+    "height" : 120
+  }, {
+    "width" : 183,
+    "height" : 239
+  }, {
+    "width" : 365,
+    "height" : 478
+  }, {
+    "width" : 730,
+    "height" : 956
+  }, {
+    "width" : 1459,
+    "height" : 1911
+  } ],
+  "profile" : "level0",
+  "width" : 1459,
+  "id" : "https://nthieberger.github.io/Layard/images/mss84_b051_f001005",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1911
+}
